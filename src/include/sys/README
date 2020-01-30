@@ -1,0 +1,4 @@
+The header files in this directory in the main come from the Commodore disk images.
+Some come from the Mark Williams repository, others are reconstructed from code.
+Currently some of the headers are here and in include, this will be sorted where
+appropriate.
